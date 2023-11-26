@@ -1,3 +1,3 @@
 # Object-Oriented-Programming
 
-This Repository contain the Object Oriented Programming codes in C++ programming language.
+This Repository contain the some concept of Object Oriented Programming (Oop's) in C++ programming language.
