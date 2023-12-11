@@ -23,5 +23,5 @@ Dogs d;
 a= &d; 
 a -> sound();  
 } 
-ffffffddddddddddddddd
+
 
